@@ -150,27 +150,27 @@ p {
 
 h1 {
     padding: 2%;
-    font-family: 'Westmeath', sans-serif;
-    color: #fff;
+    font-family: 'Ibm plex', sans-serif;
+    color: black;
 }
 
 h2 {
     padding: 5%;
-    font-family: 'Westmeath', sans-serif;
+    font-family: 'Ibm plex mono', sans-serif;
     color: black;
 }
 
-.div{
+.div {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
 }
 
-.roze{
+.roze {
     float: left;
 }
 
-.kleding{
+.kleding {
     float: right;
 }
 
@@ -188,4 +188,3 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
